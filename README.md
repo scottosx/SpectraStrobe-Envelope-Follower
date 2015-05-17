@@ -19,4 +19,4 @@ When you get some settings you like press the Apply button and the light setting
 
 There you go! Instant (nearly so) light show for your enjoyment. Other audio editors or DAWs will work in a similar way.
 
-You will also want at least 2db of headroom in your soundtrack to allow for the light signals. Use normalize in your editor to reduce the gain to this level if necessary.
+You will also want at least 2db of headroom in your soundtrack to allow for the light signals. Use normalize in your editor to reduce the gain to this level before applying the plugin if necessary.
