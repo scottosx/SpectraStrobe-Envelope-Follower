@@ -1,7 +1,9 @@
 # SpectraStrobe-Envelope-Follower
 AudioUnit and VST plugins for Mac to create SpectraStrobe as a color organ from audio files
 
-Note the SonicBirth 1.3.1 framework must be installed. You can deselect all of the extra example plugins and only install the SonicBirth.app and the Sonic Birth Framework using the checkboxes in the installer. Version 1.3.1 beta2 is included in download.
+The SonicBirth 1.3.1 framework must be installed. You can deselect all of the extra example plugins and only install the SonicBirth.app and the Sonic Birth Framework using the checkboxes in the installer. Version 1.3.1 beta2 is included in download.
+
+Also this will not work in 64bit hosts like Logic Pro X or it may with a 32bit bridge but that is untested.
 
 To install go to your hard drive (likely Macintosh HD)/Library/Audio/Plug-ins/Components and copy the .component file there to intall the AudioUnit plugin. If you want to install the VST plugin go to hard drive/Library/Audio/Plug-ins/VST and put the .vst file there. You don't need both but some audio software prefers one over the other.
 
