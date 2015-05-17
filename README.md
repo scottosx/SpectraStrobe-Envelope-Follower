@@ -18,3 +18,5 @@ Tweak a few settings and press the Start Playback button at the bottom of the pl
 When you get some settings you like press the Apply button and the light settings will be written into the audio file. Save a copy of this to your Kasina as an mp3. Use Export Audio under the File menu and choose MP3 from the list. Use the settings 320 kbps for Quality, Constant for Bit Rate Mode, and Stereo for Channel Mode.
 
 There you go! Instant (nearly so) light show for your enjoyment. Other audio editors or DAWs will work in a similar way.
+
+You will also want at least 2db of headroom in your soundtrack to allow for the light signals. Use normalize in your editor to reduce the gain to this level if necessary.
