@@ -1,6 +1,8 @@
 # SpectraStrobe-Envelope-Follower
 AudioUnit and VST plugins for Mac to create SpectraStrobe as a color organ from audio files
 
+Note the SonicBirth 1.3.1 framework must be installed as well. You can deselect all of the extra example plugins and only installed the SonicBirth.app and the Sonic Birth Framework. Version 1.3.1 beta2 is included in download.
+
 To install go to your hard drive (likely Macintosh HD)/Library/Audio/Plug-ins/Components and copy the .component file there to intall the AudioUnit plugin. If you want to install the VST plugin go to hard drive/Library/Audio/Plug-ins/VST and put the .vst file there. You don't need both but some audio software prefers one over the other.
 
 These plugins work well with Audacity especially the new version 2.1.0 here <http://web.audacityteam.org/download/mac> . Also install the Audacity LAME and FFMPEG plugins further down on the page to output MP3 files.
